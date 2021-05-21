@@ -1,0 +1,21 @@
+.service-container{
+    text-align: center;
+    
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+.service-container h5{
+    color: rgb(33, 235, 218);
+}
+
+.service-item{
+    padding: 20px;
+}
+
+.service-item h6{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}

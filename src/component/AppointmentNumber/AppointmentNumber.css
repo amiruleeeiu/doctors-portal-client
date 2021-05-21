@@ -1,0 +1,8 @@
+.AppointmentNumber{
+    display: flex;
+    width: 220px;
+    padding: 20px;
+    margin-left: 30px;
+    border-radius: 10px;
+    color: white;
+}

@@ -1,0 +1,37 @@
+.home{
+    margin: 50px 150px;
+}
+.home-header{
+    
+    padding: 20px;
+    background-image: url('../../images/Mask\ Group\ 2.png');
+    background-repeat: no-repeat;
+    /* width: 70%; */
+}
+
+.home-header img{
+    margin-top: 10px;
+    width: 400px;
+}
+.time-location-call{
+    /* margin: 50px 150px; */
+    text-align: center;
+}
+
+.home-footer{
+    text-align: center;
+    background-color: rgb(74, 61, 85);
+    padding: 20px;
+}
+.home-footer h2{
+    color: white;
+}
+.home-footer h5{
+    color: rgb(33, 235, 218);
+}
+
+@media only screen and (max-width: 600px) {
+    .home{
+        margin: 50px 50px;
+    }
+  }

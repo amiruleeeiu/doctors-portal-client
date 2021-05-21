@@ -1,0 +1,38 @@
+.header{
+    align-items: center;
+    text-align: center;
+}
+.navigation{
+    text-align: center;
+    padding: 20px;
+
+}
+.navigation a{
+    padding: 10px;
+    color: black;
+}
+.navigation a:hover{
+    text-decoration: none;
+    color: rgb(5, 165, 151);
+    
+}
+
+.sidebar_button{
+    margin: 30px;
+    border: none;
+    border: 2px solid gray;
+    border-radius: 5px;
+    display: none;
+}
+.sidebar_button:focus{
+    outline: none;
+}
+
+@media only screen and (max-width: 800px) {
+    .navigation{
+        display: none;
+    }
+    .sidebar_button{
+        display: block;
+    }
+  }

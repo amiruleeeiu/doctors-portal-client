@@ -1,0 +1,15 @@
+.appointment-item{
+    box-shadow: 1px 1px 10px rgb(230, 227, 227);
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    text-align: center;
+    border-radius: 5px;
+    float: left;
+}
+.appointment-item h4{
+    color:rgb(66, 185, 179);
+}
+.main-button{
+    background-color: rgb(36, 235, 225);
+}

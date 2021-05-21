@@ -1,0 +1,20 @@
+.appointment-section{
+    margin: auto;
+}
+.get-appointment{
+    /* margin: 50px 30px 30px 160px; */
+    background-image: url('../../images//Mask\ Group\ 2.png');
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.get-appointment img{
+    text-align: center;
+    width: 500px;
+}
+
+@media only screen and (max-width: 600px) {
+    .get-appointment img{
+        width: 300px;
+        text-align: center;
+    }
+  }
